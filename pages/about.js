@@ -5,7 +5,6 @@ const About = () => {
       <p> Welcome to About page</p>
       <p> Welcome to About page</p>
       <p> Welcome to About page</p>
-      <p> Welcome to About page</p>
     </div>
   );
 };
